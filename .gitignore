@@ -2,9 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-# Recommended: add any editor/OS/tool-specific ignore rules from the Global/ templates as needed.
-# See: https://github.com/github/gitignore/tree/main/Global
-#
 .utmp/
 /[Ll]ibrary/
 /[Tt]emp/
@@ -46,7 +43,6 @@ ExportedObj/
 *.csproj
 *.unityproj
 *.sln
-*.slnx
 *.suo
 *.tmp
 *.user
@@ -101,6 +97,64 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
-
-# Auto-generated cache in Assets folder
-/[Aa]ssets/[Ss]ceneDependencyCache*
+.idea/.idea.goji-no-chaimu/.idea/indexLayout.xml
+.idea/.idea.goji-no-chaimu/.idea/vcs.xml
+.vsconfig
+Assets/_Project.meta
+Assets/_Project/All Level - 1.meta
+Assets/_Project/All Level - 1/Item Interact.meta
+Assets/_Project/All Level - 1/Item Interact/Black.mat
+Assets/_Project/All Level - 1/Item Interact/Black.mat.meta
+Assets/_Project/All Level - 1/Item Interact/Footer Paper.prefab
+Assets/_Project/All Level - 1/Item Interact/Footer Paper.prefab.meta
+Assets/_Project/All Level - 1/Item Interact/Head Paper.prefab
+Assets/_Project/All Level - 1/Item Interact/Head Paper.prefab.meta
+Assets/_Project/All Level - 1/Item Interact/InspectItem.unity
+Assets/_Project/All Level - 1/Item Interact/InspectItem.unity.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Footer3.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Footer3.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Head1.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Head1.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Middle2.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/2D_Isegami_Middle2.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Footer3.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Footer3.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Head1.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Head1.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Middle2.png
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Isegami_Middle2.png.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/2D_Isegami_Footer3.mat
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/2D_Isegami_Footer3.mat.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/2D_Isegami_Middle2.mat
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/2D_Isegami_Middle2.mat.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/Isegami_Head1.mat
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/Isegami_Head1.mat.meta
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/Isegami_Head2.mat
+Assets/_Project/All Level - 1/Item Interact/IsegamiTunnel/Materials/Isegami_Head2.mat.meta
+Assets/_Project/All Level - 1/Item Interact/Middle Paper.prefab
+Assets/_Project/All Level - 1/Item Interact/Middle Paper.prefab.meta
+Assets/_Project/All Level - 1/Item Interact/Script.meta
+Assets/_Project/All Level - 1/Item Interact/Script/DialogueTPS.cs
+Assets/_Project/All Level - 1/Item Interact/Script/DialogueTPS.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/FPS.meta
+Assets/_Project/All Level - 1/Item Interact/Script/FPS/Interaction.cs
+Assets/_Project/All Level - 1/Item Interact/Script/FPS/Interaction.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/FPS/Paper.cs
+Assets/_Project/All Level - 1/Item Interact/Script/FPS/Paper.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/InspectSystem.cs
+Assets/_Project/All Level - 1/Item Interact/Script/InspectSystem.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/InteractablePoint.cs
+Assets/_Project/All Level - 1/Item Interact/Script/InteractablePoint.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/InteractionPromptUI.cs
+Assets/_Project/All Level - 1/Item Interact/Script/InteractionPromptUI.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/Interactor.cs
+Assets/_Project/All Level - 1/Item Interact/Script/Interactor.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/Inventory.cs
+Assets/_Project/All Level - 1/Item Interact/Script/Inventory.cs.meta
+Assets/_Project/All Level - 1/Item Interact/Script/PaperTPS.cs
+Assets/_Project/All Level - 1/Item Interact/Script/PaperTPS.cs.meta
+Assets/_Project/All Level - 1/Trigger.meta
+Assets/_Project/All Level - 1/Trigger/TriggerPoint.cs
+Assets/_Project/All Level - 1/Trigger/TriggerPoint.cs.meta
